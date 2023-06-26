@@ -1,0 +1,20 @@
+Options for installation
+ 1- full bitnami package to get all in one file (mysql+php+xampp)
+ 2- install xampp + download wordpress package from wordpress.org***
+
+Go to local disk c: -> xampp folder -> htdocs -> create a folder here
+Next : extract your wordpress package in the created folder
+
+Then, Open a browser and type : localhost/foldername  to start installation
+
+Once installed : Next steps (Reset)
+  1- delete all posts --> in Posts 
+  2- delete all pages --> in Pages
+  3- delete all plugins  --> in Plugins
+
+Always don't forget your Admin page - username and password
+
+
+
+
+
